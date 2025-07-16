@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @YashChopra23
-- 👀 I’m interested in tech societies
-- 🌱 I’m currently learning C++
-  
+Hi I'm Yash, currently working on ML Projects and learning web frameworks.
 
 <!---
 YashChopra23/YashChopra23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
